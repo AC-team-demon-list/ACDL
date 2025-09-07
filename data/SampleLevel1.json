@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "name": "Silent clubstep",
+    "author": "TheRealSailent",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verifier": "niwox_",
+    "verification": "https://www.youtube.com/watch?v=zS7ivyoF8ws&ab_channel=niwox_",
+    "percentToQualify": 25,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "niwox_",
+            "link": "https://www.youtube.com/watch?v=zS7ivyoF8ws&ab_channel=niwox_",
             "percent": 100,
             "hz": 360
         }
