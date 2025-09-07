@@ -1,4 +1,4 @@
-[
+ [
     {
         "role": "owner",
         "name": "niwox_",
@@ -10,8 +10,8 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "helper",
-        "name": "eviV2",
+        "role": "helper/dev",
+        "name": "EviV2",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
